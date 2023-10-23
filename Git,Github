@@ -1,0 +1,41 @@
+
+
+O que e git?
+
+Git é um sistema de controle de versões distribuído, usado principalmente
+no desenvolvimento de software, mas pode ser usado para registrar o histórico de
+edições de qualquer tipo de arquivo (Exemplo: alguns livros digitais são
+disponibilizados no GitHub e escrito aos poucos publicamente). O Git foi inicialmente
+projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux,
+mas foi adotado por muitos outros projetos.
+
+O que é GitHub?
+
+O GitHub é considerado é uma ferramenta essencial para engenheiros de software,
+com uma popularidade sem igual. Atualmente, ele acomoda mais de 25 milhões de
+usuários. Isso significa que há um número considerável de profissionais que estão
+procurando o GitHub para melhorar o fluxo de trabalho e a colaboração.
+Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de
+controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores
+colaborem e façam mudanças em projetos compartilhados enquanto mantêm um
+registro detalhado do seu progresso.
+Para melhor entender o que é o GitHub e como ele funciona, precisamos dar uma
+olhada mais a fundo.
+
+
+
+
+
+O que é Docker?
+
+Docker é um conjunto de produtos de plataforma como serviço (PaaS) que usam
+virtualização de nível de sistema operacional para entregar software em pacotes
+chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus
+próprios softwares.
+
+Qual utilidade do Docker?
+
+A tecnologia Docker oferece mais do que a habilidade de executar containers: ela
+também facilita o processo de criação e construção de containers, o envio e o controle
+de versão de imagens, entre outros. Os containers Linux tradicionais usam um sistema
+init capaz de gerenciar vários processos.
